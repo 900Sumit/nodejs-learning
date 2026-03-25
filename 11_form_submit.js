@@ -35,5 +35,3 @@ var server = http.createServer(function(req,res){
 server.listen(3000,function(){
     console.log('Server is running on port 3000');
 });
-git config --global user.name "900sumit"
-git config --global user.email "sumit90047kumar@gmail.com"
