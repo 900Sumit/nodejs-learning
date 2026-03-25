@@ -1,8 +1,8 @@
 //3. Write a program to demonstrate asynchronous programming in Node JS. 
 const fs = require("fs")
 
-console.log("Name: Samika Yadav")
-console.log("Roll No: 243")
+console.log("Name: Sumit Kumar")
+console.log("Roll No: 191")
 
 fs.writeFile("file1.txt","This is the first file",(err)=>{
     if(err) throw err
